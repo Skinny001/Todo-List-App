@@ -8,7 +8,7 @@ function TodoList() {
     return (
         <ul className="w-full max-w-md">
             {todos && todos.map(todo => (
-                <li key={todo.id} className="flex items-center space-x-4 bg-[#606c38] p-2 m-2 rounded">
+                <li key={todo.id} className="flex items-center space-x-4 bg-gray-400 p-2 m-2 rounded">
                     <input
                         type="checkbox"
                         checked={todo.completed}
