@@ -12,5 +12,3 @@ By creating this TODO list application you will learn to use the Tailwind CSS fo
 - Reactjs  
 - Redux Toolkit
 - Tailwind CSS
-
-
